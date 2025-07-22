@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo openvpn /dataismo/vpn/vpnConfig.ovpn
+sudo openvpn /dataismo/vpn/openVpnConfig.ovpn
